@@ -1,5 +1,9 @@
 h1{
     color:blue;
+    text-align: center;
+    font-size:1.4em;
+    font-family: 'Rubik Doodle Shadow', system-ui;
+     font-weight: bold;
 }
 p{
     color:purple;
@@ -7,7 +11,7 @@ p{
 span{
     color:red;
 }
-.phrase{
+.phrase,.objet{
     color:green;
 }
 .nom{
@@ -15,19 +19,17 @@ span{
 }
 div{
     color:gold;
-}
-h1{
-    font-size:1.4em;
-    font-family: 'Rubik Doodle Shadow', system-ui;
     font-style: italic;
-     font-weight: bold;
 }
 .mot{
     text-decoration-line: line-through;
 }
-h1{
-    text-align: center;
+.event{
+    color:blue;
 }
+ 
+   
+
 
 
 
