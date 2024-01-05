@@ -18,8 +18,12 @@ div{
 }
 h1{
     font-size:1.4em;
-    
-    font-weight: bold;
+    font-family: 'Rubik Doodle Shadow', system-ui;
+    font-style: italic;
+     font-weight: bold;
+}
+.mot{
+    text-decoration-line: line-through;
 }
 
 
