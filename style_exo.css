@@ -27,11 +27,20 @@ div{
 .event{
     color:blue;
 }
+/*
 body{
     background-color: chocolate;
     background-image: url(mes_images/image_choix.jpg);
     background-repeat: no-repeat;
+}*/
+body{
+    background:lineaire-gradient(40deg,#FFA17F,#00223E);
+    background-image: url(mes_images/image_choix.jpg);
+    background-repeat: no-repeat;
 }
+
+
+   
  
    
 
