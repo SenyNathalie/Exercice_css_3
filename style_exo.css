@@ -29,6 +29,8 @@ div{
 }
 body{
     background-color: chocolate;
+    background-image: url(mes_images/image_choix.jpg);
+    background-repeat: no-repeat;
 }
  
    
